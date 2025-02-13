@@ -1,4 +1,4 @@
-# Arduino MAX31855 K-Type Thermocouple Shield
+# Arduino K-Type Thermocouple Shield
 
 <div align="center">
   <img src="docs/shield-3d-render.png" alt="3D render of the thermocouple shield">
@@ -35,3 +35,7 @@ This hardware design is released under the [CERN Open Hardware License v2 - Stro
 ## Contributing
 
 Contributions to improve the design are welcome. Please submit issues and pull requests.
+
+# Credits
+
+Circuit inspired by [Adafruit #269](https://www.adafruit.com/product/269)
